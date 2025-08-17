@@ -240,6 +240,8 @@
 
     <string name="title_pref_promotion">Tianque Official Website</string>
     <string name="summary_pref_promotion">Visit the official Tianque website</string>
+    <string name="title_pref_renewal">Website Renewal</string>
+    <string name="summary_pref_renewal">Visit Tianque website for renewal</string>
 
     <string name="title_pref_auto_update_subscription">Automatic update subscriptions</string>
     <string name="summary_pref_auto_update_subscription">Update your subscriptions automatically at set intervals in the background. Depending on the device, this feature may not always work</string>

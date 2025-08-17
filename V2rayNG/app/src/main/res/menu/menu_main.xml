@@ -8,6 +8,11 @@
         app:actionViewClass="androidx.appcompat.widget.SearchView"
         app:showAsAction="always|collapseActionView" />
     <item
+        android:id="@+id/renewal_button"
+        android:icon="@drawable/ic_promotion_24dp"
+        android:title="@string/title_pref_renewal"
+        app:showAsAction="ifRoom" />
+    <item
         android:icon="@drawable/ic_add_24dp"
         android:title="@string/menu_item_add_config"
         app:showAsAction="ifRoom">
